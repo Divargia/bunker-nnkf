@@ -1,0 +1,75 @@
+{
+  "chat_id": -1002924425942,
+  "phase": "card_reveal_1",
+  "current_card_phase": 1,
+  "players": {
+    "6156642056": {
+      "user_id": 6156642056,
+      "username": "divargia",
+      "first_name": "ντιβάργκια",
+      "is_alive": true,
+      "is_admin": true,
+      "votes_received": 0,
+      "has_voted": false,
+      "vote_target": null,
+      "special_card_used": false,
+      "character": {
+        "profession": "Судья",
+        "gender": "Мужчина",
+        "age": 45,
+        "body_type": "Крупное телосложение",
+        "disease": "Раздвоение личности",
+        "phobia": "Арахнофобия - боязнь пауков",
+        "hobby": "Рукоделие",
+        "fact": "Хрюкает как свинья когда смеётся",
+        "baggage": "Лекарства от вирусных заболеваний",
+        "special_card": "",
+        "special_card_id": "",
+        "revealed_cards": {
+          "profession": true,
+          "biology": false,
+          "health": false,
+          "phobia": false,
+          "hobby": false,
+          "fact": false,
+          "baggage": false,
+          "special_card": false
+        }
+      }
+    },
+    "7658769848": {
+      "user_id": 7658769848,
+      "username": "wwekuu",
+      "first_name": "*wekʷ-",
+      "is_alive": true,
+      "is_admin": false,
+      "votes_received": 0,
+      "has_voted": false,
+      "vote_target": null,
+      "special_card_used": false,
+      "character": {
+        "profession": "Фермер",
+        "gender": "Мужчина",
+        "age": 45,
+        "body_type": "Обычный",
+        "disease": "Депрессия",
+        "phobia": "Арахнофобия - боязнь пауков",
+        "hobby": "Пайка микросхем",
+        "fact": "Гений",
+        "baggage": "Белая разумная свинья",
+        "special_card": "",
+        "special_card_id": "",
+        "revealed_cards": {
+          "profession": true,
+          "biology": false,
+          "health": false,
+          "phobia": false,
+          "hobby": false,
+          "fact": false,
+          "baggage": false,
+          "special_card": false
+        }
+      }
+    }
+  }
+}

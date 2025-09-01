@@ -1,0 +1,75 @@
+{
+  "chat_id": -4827413179,
+  "phase": "card_reveal_1",
+  "current_card_phase": 1,
+  "players": {
+    "6156642056": {
+      "user_id": 6156642056,
+      "username": "divargia",
+      "first_name": "ντιβάργκια",
+      "is_alive": true,
+      "is_admin": true,
+      "votes_received": 0,
+      "has_voted": false,
+      "vote_target": null,
+      "special_card_used": false,
+      "character": {
+        "profession": "Админ по вп",
+        "gender": "Мужчина",
+        "age": 17,
+        "body_type": "Обычный",
+        "disease": "Хроническая бессонница",
+        "phobia": "Арахнофобия - боязнь пауков",
+        "hobby": "Плаванье",
+        "fact": "Моется раз в две недели",
+        "baggage": "Аптечка первой помощи",
+        "special_card": "",
+        "special_card_id": "",
+        "revealed_cards": {
+          "profession": true,
+          "biology": false,
+          "health": false,
+          "phobia": false,
+          "hobby": false,
+          "fact": false,
+          "baggage": false,
+          "special_card": false
+        }
+      }
+    },
+    "7658769848": {
+      "user_id": 7658769848,
+      "username": "wwekuu",
+      "first_name": "*wekʷ-",
+      "is_alive": true,
+      "is_admin": false,
+      "votes_received": 0,
+      "has_voted": false,
+      "vote_target": null,
+      "special_card_used": false,
+      "character": {
+        "profession": "Слесарь",
+        "gender": "Мужчина",
+        "age": 58,
+        "body_type": "Карлик",
+        "disease": "Никогда не обследовался",
+        "phobia": "Андрофобия - боязнь мужчин",
+        "hobby": "Пайка микросхем",
+        "fact": "Извращенец",
+        "baggage": "Мини электростанция",
+        "special_card": "",
+        "special_card_id": "",
+        "revealed_cards": {
+          "profession": true,
+          "biology": false,
+          "health": false,
+          "phobia": false,
+          "hobby": false,
+          "fact": false,
+          "baggage": false,
+          "special_card": false
+        }
+      }
+    }
+  }
+}
